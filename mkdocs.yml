@@ -1,0 +1,33 @@
+site_name: OctoLab documentation
+site_url: https://docs.octolab.org/
+
+repo_name: docs
+repo_url: https://github.com/octolab/docs
+edit_uri: edit/master/src
+
+docs_dir: src
+site_dir: docs
+
+theme:
+  name: material
+  language: en
+  custom_dir: src/custom/overrides
+
+  features:
+    - navigation.sections
+    - toc.integrate
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  icon:
+    logo: material/puzzle
+
+  palette:
+    primary: green
+    accent: light blue
+
+nav:
+  - index.md
+  - faq.md
