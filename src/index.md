@@ -1,5 +1,0 @@
----
-title: Home
----
-
-# OctoLab Documentation
