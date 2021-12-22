@@ -6,9 +6,11 @@
 
 - Based on Markdown, best on MDX,
 - Easy to customize and extend,
-- Easy to use, zero config,
+- Easy to use, zero-config,
 - Minimal number of dependencies,
 - Maintained, secured, and fast.
+
+[💬 Discussion](https://github.com/under-the-hood/docs/discussions/2).
 
 ## 🎁 Resources
 
