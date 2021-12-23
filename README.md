@@ -27,16 +27,12 @@
 
 ### SSG
 
+#### Specific
+
 - [Docusaurus](https://docusaurus.io/),
   - https://github.com/facebook/docusaurus.
 - [Docz](https://www.docz.site/),
   - https://github.com/doczjs/docz.
-- [Gatsby](https://www.gatsbyjs.org/),
-  - https://github.com/gatsbyjs/gatsby.
-- [Hexo](https://hexo.io/),
-  - https://github.com/hexojs/hexo.
-- [Hugo](https://gohugo.io/),
-  - https://github.com/gohugoio/hugo.
 - [MkDocs](https://www.mkdocs.org/),
   - https://github.com/mkdocs/mkdocs,
   - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
@@ -46,5 +42,12 @@
     - [Cal.com Docs](https://cal.com/docs).
 - [Starlight](https://starlight.astro.build/),
   - https://github.com/withastro/starlight.
+
+#### Generic
+
+- [Gatsby](https://www.gatsbyjs.org/),
+  - https://github.com/gatsbyjs/gatsby.
+- [Hugo](https://gohugo.io/),
+  - https://github.com/gohugoio/hugo.
 
 <p align="right">made with ❤️ for everyone by OctoLab</p>
