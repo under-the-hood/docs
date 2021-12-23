@@ -42,4 +42,7 @@ We recommend that you begin by typing:
   `npm start`
 
 Happy building awesome websites!
+
+$ (cd research && npm start)
+# not so fast start
 ```
