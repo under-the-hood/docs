@@ -29,18 +29,18 @@
 
 #### Specific
 
-- [Docusaurus](https://docusaurus.io/),
+- [Docusaurus](https://docusaurus.io/), [🔬](src/docusaurus),
   - https://github.com/facebook/docusaurus.
-- [Docz](https://www.docz.site/),
+- [Docz](https://www.docz.site/), [🔬](src/docz),
   - https://github.com/doczjs/docz.
 - [MkDocs](https://www.mkdocs.org/),
   - https://github.com/mkdocs/mkdocs,
   - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
-- [Nextra](https://nextra.site/),
+- [Nextra](https://nextra.site/), [🔬](src/nextra),
   - https://github.com/shuding/nextra,
   - Examples:
     - [Cal.com Docs](https://cal.com/docs).
-- [Starlight](https://starlight.astro.build/),
+- [Starlight](https://starlight.astro.build/), [🔬](src/starlight),
   - https://github.com/withastro/starlight.
 
 #### Generic
