@@ -1,8 +1,8 @@
-> # 📚 Docs
->
-> Documentation infrastructure research.
+# 📚 Documentation infrastructure research
 
-## 🧑‍🔬 Requirements
+Find easy-to-use documentation solution for OctoLab's projects.
+
+## Requirements
 
 - Based on Markdown, best on MDX,
 - Easy to customize and extend,
@@ -12,7 +12,7 @@
 
 [💬 Discussion](https://github.com/under-the-hood/docs/discussions/2).
 
-## 🎁 Resources
+## Resources
 
 ### Raw
 
@@ -50,4 +50,4 @@
 - [Hugo](https://gohugo.io/),
   - https://github.com/gohugoio/hugo.
 
-<p align="right">made with ❤️ for everyone by OctoLab</p>
+<p align="right">made with ❤️ for everyone by <a href="https://www.octolab.org/">OctoLab</a></p>
