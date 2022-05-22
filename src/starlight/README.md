@@ -6,6 +6,6 @@ Based on the [getting started](https://starlight.astro.build/getting-started/) g
 $ npm create astro@latest -- --template starlight
 # hidden by interactive mode
 
-$ (cd research && npm run dev)
+$ npm run dev
 # fast start
 ```
