@@ -43,6 +43,6 @@ We recommend that you begin by typing:
 
 Happy building awesome websites!
 
-$ (cd research && npm start)
+$ npm start
 # not so fast start
 ```
