@@ -1,0 +1,66 @@
+version: 2
+
+updates:
+  - package-ecosystem: npm
+    directory: src/docusaurus/
+    schedule:
+      interval: daily
+      time: '05:00'
+      timezone: UTC
+    labels:
+      - 'type: improvement'
+      - 'scope: code'
+      - 'scope: deps'
+    commit-message:
+      prefix: 'feat'
+      prefix-development: 'chore'
+      include: 'scope'
+    open-pull-requests-limit: 30
+
+  - package-ecosystem: npm
+    directory: src/docz/
+    schedule:
+      interval: daily
+      time: '05:00'
+      timezone: UTC
+    labels:
+      - 'type: improvement'
+      - 'scope: code'
+      - 'scope: deps'
+    commit-message:
+      prefix: 'feat'
+      prefix-development: 'chore'
+      include: 'scope'
+    open-pull-requests-limit: 30
+
+  - package-ecosystem: npm
+    directory: src/nextra/
+    schedule:
+      interval: daily
+      time: '05:00'
+      timezone: UTC
+    labels:
+      - 'type: improvement'
+      - 'scope: code'
+      - 'scope: deps'
+    commit-message:
+      prefix: 'feat'
+      prefix-development: 'chore'
+      include: 'scope'
+    open-pull-requests-limit: 30
+
+  - package-ecosystem: npm
+    directory: src/starlight/
+    schedule:
+      interval: daily
+      time: '05:00'
+      timezone: UTC
+    labels:
+      - 'type: improvement'
+      - 'scope: code'
+      - 'scope: deps'
+    commit-message:
+      prefix: 'feat'
+      prefix-development: 'chore'
+      include: 'scope'
+    open-pull-requests-limit: 30
