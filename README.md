@@ -16,38 +16,42 @@ Find easy-to-use documentation solution for OctoLab's projects.
 
 ### Raw
 
-- [MDX](https://mdxjs.com/),
-  - https://github.com/mdx-js/mdx,
-  - https://github.com/mdx-js/awesome.
-- [Markdoc](https://markdoc.dev/),
-  - https://github.com/markdoc/markdoc.
-- [Next.js](https://nextjs.org/),
-  - https://github.com/vercel/next.js,
-  - https://nextjs.org/docs/advanced-features/using-mdx.
+- https://mdxjs.com/
+  - https://github.com/mdx-js/mdx
+  - https://github.com/mdx-js/awesome
+- https://markdoc.dev/
+  - https://github.com/markdoc/markdoc
+- https://nextjs.org/
+  - https://github.com/vercel/next.js
+  - https://nextjs.org/docs/advanced-features/using-mdx
 
 ### SSG
 
 #### Specific
 
-- [Docusaurus](https://docusaurus.io/), [🔬](src/docusaurus),
-  - https://github.com/facebook/docusaurus.
-- [Docz](https://www.docz.site/), [🔬](src/docz),
+- https://docusaurus.io/ <sup>[🔬](src/docusaurus)</sup>
+  - https://github.com/facebook/docusaurus
+- https://www.docz.site/ <sup>[🔬](src/docz)</sup>
   - https://github.com/doczjs/docz.
-- [MkDocs](https://www.mkdocs.org/),
-  - https://github.com/mkdocs/mkdocs,
-  - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
-- [Nextra](https://nextra.site/), [🔬](src/nextra),
-  - https://github.com/shuding/nextra,
+- https://www.mkdocs.org/
+  - https://github.com/mkdocs/mkdocs
+  - https://squidfunk.github.io/mkdocs-material/
+- https://nextra.site/ <sup>[🔬](src/nextra)</sup>
+  - https://github.com/shuding/nextra
   - Examples:
-    - [Cal.com Docs](https://cal.com/docs).
-- [Starlight](https://starlight.astro.build/), [🔬](src/starlight),
-  - https://github.com/withastro/starlight.
+    - https://cal.com/docs
+- https://starlight.astro.build/ <sup>[🔬](src/starlight)</sup>
+  - https://github.com/withastro/starlight
 
 #### Generic
 
-- [Gatsby](https://www.gatsbyjs.org/),
-  - https://github.com/gatsbyjs/gatsby.
-- [Hugo](https://gohugo.io/),
-  - https://github.com/gohugoio/hugo.
+- https://www.11ty.dev/
+  - https://github.com/11ty/eleventy
+- https://astro.build/
+  - https://github.com/withastro/astro
+- https://www.gatsbyjs.org/
+  - https://github.com/gatsbyjs/gatsby
+- https://gohugo.io/
+  - https://github.com/gohugoio/hugo
 
 <p align="right">made with ❤️ for everyone by <a href="https://www.octolab.org/">OctoLab</a></p>
