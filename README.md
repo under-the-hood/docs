@@ -1,4 +1,4 @@
-# 📚 Documentation infrastructure research
+# 📚 Documentation inventory research
 
 Find easy-to-use documentation solution for OctoLab's projects.
 
